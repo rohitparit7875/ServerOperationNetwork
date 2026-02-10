@@ -1,0 +1,11 @@
+Networking Questions
+6. What is DHCP?
+👉 Automatically assigns IP address to devices.
+7. What is DNS?
+👉 Converts domain name into IP address.
+8. What is IP Address?
+👉 Unique identifier for devices in network.
+9. Difference between LAN and WAN?
+👉 LAN = local network, WAN = large geographic network.
+10. How to check IP in Windows?
+👉 ipconfig command
