@@ -1,0 +1,12 @@
+🖥️ Basic Desktop Support Questions
+1. What is the role of a Desktop Support Engineer?
+👉 Installing, configuring, troubleshooting hardware, OS, software, network issues and providing user support.
+2. Difference between Hardware and Software?
+👉 Hardware = physical components (RAM, HDD).
+👉 Software = programs (Windows, MS Office).
+3. What is BIOS?
+👉 Basic Input Output System – initializes hardware during startup.
+4. What is UEFI?
+👉 Modern firmware interface replacing BIOS, faster boot and secure boot support.
+5. What is Safe Mode?
+👉 Windows starts with minimal drivers to troubleshoot problems.
