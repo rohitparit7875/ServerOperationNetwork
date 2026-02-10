@@ -1,0 +1,10 @@
+🌐 Networking Questions
+4️⃣ What is IP Address?
+👉 Unique address assigned to a device in a network.
+5️⃣ What is DHCP?
+👉 Automatically assigns IP address, gateway, DNS to devices.
+6️⃣ Difference between DNS and DHCP?
+DNS → Converts domain to IP
+DHCP → Gives IP automatically
+7️⃣ Command to check IP?
+👉 ipconfig (Windows)
