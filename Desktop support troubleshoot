@@ -1,0 +1,15 @@
+🧰 Troubleshooting Scenario Questions
+11️⃣ User has slow PC — what will you do?
+Check Task Manager
+Disable startup apps
+Scan virus
+Check RAM/SSD usage
+12️⃣ No internet but LAN connected?
+Check IP using ipconfig
+Ping gateway
+Restart adapter
+Check DNS
+13️⃣ Printer not working?
+Check spooler service
+Reinstall driver
+Check network connection
